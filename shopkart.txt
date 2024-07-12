@@ -1,0 +1,16 @@
+ pip install pipenv
+ pipenv shell
+pip install Django
+
+pipenv --venv // to check the location of the virtual enviroinment
+
+django-admin // to see all Django commands
+
+django-admin startproject adhavan_project .
+
+python manage.py runserver
+pip install mysqlclient
+
+
+python manage.py startapp shop
+
